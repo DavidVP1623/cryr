@@ -1,0 +1,42 @@
+body{
+   background-image:url("ABP5M2/paisaje.jpg");
+   background-size: 100% 100%;
+   background-attachment: fixed;
+   }
+
+  .titulo{
+     background-color: rgb(17, 180, 31);
+     opacity: 0.8;
+     color: rgb(255, 255, 255);
+     width: 40%;
+     text-align: center;
+     margin: auto;
+     font-family: 'Merienda', cursive;
+     font-size: 30px;
+     border: groove blue   ;
+  }
+     h2{
+     text-align: center;
+     font-size: 90px;
+     font-family: 'Tangerine', cursive;
+  }
+   
+ .caja{
+    background-color: rgb(17, 180, 31);
+    opacity:0.8;
+    width: 40%;
+    height: 30%;
+    margin:auto;
+    color: rgb(255, 255, 255);
+    border: double black;
+    border-width: 10px;
+    border-color: rgb(76, 60, 167);
+    margin-top: 20px;
+    padding: 10px;
+ }
+
+  
+ 
+
+
+
